@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CS3270A3 Viall</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rock_paper_scissors">Rock, Paper, Scissors</string>
+    <string name="by_travis_viall">By Travis Viall</string>
+    <string name="my_pick">My Pick</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="phone_pick_is">Phone Pick is</string>
+    <string name="phone_pick">\?</string>
+    <string name="game_result_field">--</string>
+    <string name="games_played">Games Played</string>
+    <string name="total_games">0</string>
+    <string name="games_total">0</string>
+    <string name="phone_win_count">Phone Win Count</string>
+    <string name="phone_win_total">0</string>
+    <string name="my_win_count">My Win Count</string>
+    <string name="my_win_value">0</string>
+    <string name="phone_win_value">0</string>
+    <string name="games_played_value">0</string>
+    <string name="tie_games_value">0</string>
+    <string name="tie_games">Tie Games</string>
+    <string name="reset_counts_btn">Reset Counts</string>
+    <string name="tie">Tie</string>
+    <string name="lose">Phone Wins!</string>
+    <string name="win">You Win!</string>
+</resources>
